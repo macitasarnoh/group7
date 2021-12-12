@@ -13,3 +13,6 @@ resource "aws_subnet" "mysubnet" {
   }
 
 }
+resource "new ec2 instance " "name" {
+  
+}
